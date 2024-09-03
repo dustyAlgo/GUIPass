@@ -18,4 +18,4 @@ A simple and user-friendly random password generator built with Python and Tkint
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/random-password-generator.git
+   git clone https://github.com/dustyAlgo/random-password-generator.git
